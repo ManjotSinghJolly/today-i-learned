@@ -127,6 +127,7 @@ ul {
   color: #a8a29e;
   margin-left: 12px;
   transition: 1s;
+  text-decoration: none;
 }
 
 .source:hover,
